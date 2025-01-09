@@ -33,7 +33,7 @@ export default async function Page() {
           Reservations &rarr;
         </Link>
         <Link
-          href="/account/reservations"
+          href="/account/profile"
           className=" text-xl text-accent-300 inline-block ml-3 cursor-pointer"
         >
           Guest Profile &rarr;
